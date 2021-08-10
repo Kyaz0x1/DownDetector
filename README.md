@@ -1,5 +1,4 @@
 # DownDetector
-Program designed to see the status of a website, check if it is down
 
 ### Demo
 <img src="img/DownDetector - Demo 1.png" />
